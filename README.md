@@ -2,7 +2,7 @@
 <h3 align="center">Senior Infrastructure Engineer @ txodds.net</h3>
 
 <h3 align="left">Connect with me:</h3>
-Instagram: 24framesofc
+Instagram: 24framesofc \n
 LinkedIn: https://www.linkedin.com/in/ibrahim-anjum-359260150/
 <p align="left">
 </p>
