@@ -2,8 +2,8 @@
 <h3 align="center">Senior Infrastructure Engineer @ txodds.net</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p>Instagram: 24framesofc</p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/ibrahim-anjum-359260150/">https://www.linkedin.com/in/ibrahim-anjum-359260150/</a></p>
+<p>Instagram: <a href="https://www.instagram.com/24framesofc">24framesofc</a>a</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/ibrahim-anjum-359260150/">Here!!!</a></p>
 
 <p align="left"></p>
 
