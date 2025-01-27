@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Anjum</h1>
-<h3 align="center">Senior Infrastructure Engineer @ txodds.net</h3>
+<h3 align="center"> Technical Founder at Yggdrasil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p>Instagram: <a href="https://www.instagram.com/24framesofc">24framesofc</a></p>
