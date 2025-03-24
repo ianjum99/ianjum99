@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Anjum</h1>
-<h3 align="center"> Technical Founder at Yggdrasil</h3>
+<h3 align="center"> Technical Founder at InferX</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p>Instagram: <a href="https://www.instagram.com/24framesofc">24framesofc</a></p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/ibrahim-anjum-359260150/">Here!!!</a></p>
 
 <p align="left"></p>
